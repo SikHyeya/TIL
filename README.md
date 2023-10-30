@@ -14,7 +14,7 @@ _3 TILs and counting..._
 ### 2 most recent TILs
 
 - [정렬 알고리즘](Algorithm/Sorting.md) - 30300 Oct 22:16
-- [# 231027](Coding-test/231027.md) - 30300 Oct 22:16
+- [양과 늑대](Coding-test/231027.md) - 30300 Oct 22:16
 
 ### Categories
 
@@ -26,7 +26,7 @@ _3 TILs and counting..._
 - [정렬 알고리즘](Algorithm/Sorting.md)
 
 ### [Coding-test](#coding-test)
-- [# 231027](Coding-test/231027.md)
+- [양과 늑대](Coding-test/231027.md)
 
 ### [Etc](#etc)
 - [마크다운 작성 방법을 마크다운으로 정리한 글](Etc/Markdown.md)
