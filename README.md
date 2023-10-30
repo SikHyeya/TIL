@@ -7,21 +7,28 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [Test](Coding-test/Test.md) - 27270 Oct 17:23
-- [Laaa](Coding-test/La.md) - 27270 Oct 17:15
+- [정렬 알고리즘](Algorithm/Sorting.md) - 30300 Oct 22:16
+- [```](Coding-test/231027.md) - 30300 Oct 22:16
 
 ### Categories
 
+- [Algorithm](#algorithm)
 - [Coding-test](#coding-test)
+- [Etc](#etc)
+
+### [Algorithm](#algorithm)
+- [정렬 알고리즘](Algorithm/Sorting.md)
 
 ### [Coding-test](#coding-test)
-- [Laaa](Coding-test/La.md)
-- [Test](Coding-test/Test.md)
+- [```](Coding-test/231027.md)
+
+### [Etc](#etc)
+- [마크다운 작성 방법을 마크다운으로 정리한 글](Etc/Markdown.md)
 
 
